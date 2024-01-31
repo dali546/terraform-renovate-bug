@@ -10,5 +10,5 @@ terraform {
 
 module "nlb" {
   source  = "terraform-aws-modules/alb/aws"
-  version = "9.4.1"
+  version = "9.5.0"
 }
